@@ -1,5 +1,8 @@
 # Phaser 3 Side Shooter
 
+npm i
+
+npm run start
 
 ## Dev Server Port
 
